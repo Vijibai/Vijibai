@@ -1,3 +1,8 @@
 Hello this is a new file.
-#h1 Hello :-)
-## h2  hello
+# Hello :-)
+## Hello
+### Hello
+##### I am learning to write .md file in Git hub directly.
+__hi__
+## LINKS
+[GOOGLE](https://www.google.com)
