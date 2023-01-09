@@ -6,3 +6,4 @@ Hello this is a new file.
 __hi__
 ## LINKS
 [GOOGLE](https://www.google.com)
+![Minion](https://octodex.github.com/images/minion.png)
